@@ -1,3 +1,4 @@
+
 /* CORPS */
 .display{
     width: 100%;
@@ -21,4 +22,10 @@
 .padd{
     padding-top: 100px;
     padding-right: 25px;
+}
+
+/* Footer */
+.center{
+    text-align: center;
+    justify-content: center;
 }
